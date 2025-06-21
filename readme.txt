@@ -65,6 +65,7 @@ Slick Slider - https://kenwheeler.github.io/slick/
 Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
 Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
 
+
 Thanks for downloading from TemplatesJungle.com !
 
 
